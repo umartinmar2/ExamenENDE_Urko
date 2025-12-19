@@ -6,7 +6,7 @@ public class Vehiculo {
 	String modelo;
 	double precioHora;
 	
-	
+
 	public Vehiculo(String matricula, String marca, String modelo, double precioHora) {
 		super();
 		this.matricula = matricula;
@@ -62,6 +62,6 @@ public class Vehiculo {
 				+ precioHora + "]";
 	}
 	
-	
 
 }
+
